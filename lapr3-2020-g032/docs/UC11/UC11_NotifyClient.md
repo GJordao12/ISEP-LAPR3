@@ -1,4 +1,4 @@
-# UC12_SendEmailToCourier
+# UC11_NotifyClient
 
 ### SSD
 ![UC11_SSD.svg](UC11_SSD.svg)
