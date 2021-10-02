@@ -284,7 +284,7 @@ of diagrams;
 | UC16 | [Parking the Scooter](docs/UC16/UC16_ParkingTheScooter.md)                            |
 | UC17 | [Start Delivery by Scooter](docs/UC17/UC17_StartDeliveryByScooter.md)                 |
 | UC18 | [Create Scooters/Drones Park](docs/UC18/UC18_CreateScootersDronesPark.md)             |
-| UC19 | [Search Product Nearby Pharmacies](docs/UC19/UC19_SearchProductNearbyPharmacies.md)   |
+| UC19 | Search Product Nearby Pharmacies   |
 | UC21 | [Add Drone](docs/UC21/UC21_AddDrone.md)                                               |
 | UC22 | [Notify Client Delivery](docs/UC22/UC22_NotifyClientDelivery.md)                      |
 | UC24 | [Update Drone](docs/UC24/UC24_UpdateDrone.md)                                         |
