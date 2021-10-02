@@ -22,7 +22,7 @@
 | UC16 | [Parking the Scooter](../UC16/UC16_ParkingTheScooter.md)                            |
 | UC17 | [Start Delivery by Scooter](../UC17/UC17_StartDeliveryByScooter.md)                 |
 | UC18 | [Create Scooters/Drones Park](../UC18/UC18_CreateScootersDronesPark.md)             |
-| UC19 | [Search Product Nearby Pharmacies](../UC19/UC19_SearchProductNearbyPharmacies.md)   |
+| UC19 | Search Product Nearby Pharmacies   |
 | UC21 | [Add Drone](../UC21/UC21_AddDrone.md)                                               |
 | UC22 | [Notify Client Delivery](../UC22/UC22_NotifyClientDelivery.md)                      |
 | UC24 | [Update Drone](../UC24/UC24_UpdateDrone.md)                                         |
