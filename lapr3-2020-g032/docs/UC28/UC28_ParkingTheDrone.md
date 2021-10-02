@@ -1,4 +1,4 @@
-# UC16_ParkingTheScooter
+# UC28_ParkingTheDrone
 
 ### SSD
 ![UC28_SSD.svg](UC28_SSD.svg)
